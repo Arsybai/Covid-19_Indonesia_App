@@ -1,6 +1,8 @@
 # Covid-19_Indonesia_App
 App that give you information about Covid-19 in Indonesia
 
+[INSTALL](https://install.appcenter.ms/users/arsybai/apps/Covid-19-Indonesia)
+
 ---
 Fitur :
 - Cek informasi covid seluruh Indonesia
